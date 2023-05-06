@@ -38,10 +38,10 @@ class _MyDrawerState extends State<MyDrawer> {
                     alignment: Alignment.center,
                     decoration: const BoxDecoration(
                         borderRadius: BorderRadius.only(
-                            bottomLeft: Radius.circular(20.0),
-                            bottomRight: Radius.circular(20.0),
-                            topLeft: Radius.circular(20.0),
-                            topRight: Radius.circular(20.0)),
+                            bottomLeft: Radius.circular(50.0),
+                            bottomRight: Radius.circular(50.0),
+                            topLeft: Radius.circular(50.0),
+                            topRight: Radius.circular(50.0)),
                         image: DecorationImage(
                             image: NetworkImage(
                                 "https://media.licdn.com/dms/image/D4D03AQGcyfAm3CZQIA/profile-displayphoto-shrink_800_800/0/1679577384772?e=2147483647&v=beta&t=FiYXpdk0dIYUgTBk8BKwgM12WrDtXrAN4t8XN-yskOY"))),
