@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'TodoList',
+      text: "Mert Özoğul"
       theme: ThemeData(primarySwatch: Colors.pink),
       initialRoute: "/",
       routes: {
